@@ -1,7 +1,5 @@
 Hi,
 
-My name is Yelnur and I am a student at Drexel University pursuing a Bachelor of Science degree in Electrical Engineering.
+My name is Yelnur, I'm a Bachelor of Science in Electrical Engineering (Drexel University, class of 2022).
 
-Here you can take a closer look at some of the projects I have done so far.
-
-You can reach me via email at abilakim.y@gmail.com
+Here you can take a look at some of the projects I have done so far.
